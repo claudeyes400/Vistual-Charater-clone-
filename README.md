@@ -13,8 +13,11 @@ Usage Guide:
 4.Confirm the character framework, perform dual-agent 4-dimension similarity scoring, and finally generate the character document
 
 一个用于克隆虚拟角色的Skill,通过在相关网站收集资料来生成6个维度的角色信息，通过评分精炼后生成角色性格.md
+
 警告：本skill会大量消耗token，请使用者注意消耗，生成一个人物消耗：Deepseek-v4-flash-1-2元
+
 灵感来源：huashu-nuwa
+
 使用指南：
 1.触发词：「克隆XX」「造角色」「角色蒸馏」「虚拟人物」「动漫角色」「游戏角色」「角色扮演」「character clone」「做个XX的persona」「角色造灵」「捏角色」。
     模糊需求也触发：「我想扮演一个角色」「有没有适合我扮演的角色」「帮我设计一个角色persona」。
